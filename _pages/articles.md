@@ -7,9 +7,11 @@ classes: wide
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com.tw/citations?user=ZkDKsLsAAAAJ&hl=en)
 
+**2025**
+
 * H Gill, R Raghupathy, Hou HA, <u>Tsai CH</u>, A Tantiworawit, M G Ooi, Gan GG, Wong CL, Rita LH Yim, Lynn Chin, P Lee, Vivian WK Li, Lester Au, Qu Zhang, Garret MK Leung, Tony KY Wu, YY Carmen Lee, Wee Joo Chng, HF Tien, Cyrus R Kumana, YL L Kwong. **Acute Promyelocytic Leukemia Asian Consortium study of arsenic trioxide in newly-diagnosed patients: impact and outcome.** Blood Adv . 2025 Feb 25;9(4):862 [[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/39693517/)
 * Wei BH, <u>Tsai CH</u>, Sun KJ, Lo MY, Hung SY, Chou WC, Tien HF, Hou HA, Chen CY. **Annotation-free deep learning for predicting gene mutations from whole slide images of acute myeloid leukemia.** NPJ Precis Oncol . 2025 Feb 3;9(1):35. [[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/39900774/)
-* Chang YS, Wang YH, Wei CH, Chen YW, Lin HY, Lin CC, Tsai CH, Yuan CT, Tien FM, Lin YC, Lee SH, Kuo YY, Chuang MK, Ko BS, Yao M, Tien HF, Chou WC, Hou HA. **Comprehensive Characterization of Overt Myelofibrosis in an Asian Cohort: Phenotype, Mutation Landscape and Discordance Among Scoring Systems.** Hematol Oncol . 2025 Jan;43(1):e70040 [[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/39853812/)
+* Chang YS, Wang YH, Wei CH, Chen YW, Lin HY, Lin CC, <u>Tsai CH</u>, Yuan CT, Tien FM, Lin YC, Lee SH, Kuo YY, Chuang MK, Ko BS, Yao M, Tien HF, Chou WC, Hou HA. **Comprehensive Characterization of Overt Myelofibrosis in an Asian Cohort: Phenotype, Mutation Landscape and Discordance Among Scoring Systems.** Hematol Oncol . 2025 Jan;43(1):e70040 [[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/39853812/)
 * Lee WH, Lin CC, <u>Tsai CH</u>, Tien FM, Lo MY, Kuo YY, Yy SC, Liu MC, Yuan CT, Yao M, Ko BS, Tien HF, Hou HA, Chou WC. **Epidemiology, Treatment Outcomes, and Prognosis of Myelodysplastic Syndromes/Neoplasms in Taiwan: Real-World Insights and Trends.** Clin Lymphoma Myeloma Leuk . 2025 Jan 3:S2152. [[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/39863463/)
 * Lyu TW, Yung K, Chien YC, <u>Tsai CH</u>, Hou HA. **Primary myelofibrosis as the etiology of pulmonary alveolar proteinosis: a rare clinical scenario** (Corresponding author) Leukemia & Lymphoma .2025 Jan;66(1):150. [[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/39329179/)
 
