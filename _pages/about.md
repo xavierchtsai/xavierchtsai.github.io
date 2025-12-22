@@ -7,7 +7,7 @@ layout: "single"
 classes: wide
 ---
 
-Xavier Cheng-Hong Tsai is a dedicated hematologist currently serving as an assistant professor at [National Taiwan University Hospital](https://www.ntuh.gov.tw/ntuh/ntuhgroup.jsp). He is honored to hold the position of Secretary General within the [Taiwan Society of Blood and Marrow Transplantation](http://www.tbmt.org.tw/). <br>
+Xavier Cheng-Hong Tsai is a dedicated hematologist currently serving as an assistant professor at [National Taiwan University Hospital](https://www.ntuh.gov.tw/ntuh/ntuhgroup.jsp). He is honored to hold the position of Director within the [Taiwan Society of Blood and Marrow Transplantation](http://www.tbmt.org.tw/). <br>
 
 His primary areas of interest lie in acute myeloid leukemia, bone marrow failure syndrome, and hematopoietic stem cell transplantation, where he have been actively engaged in comprehensive patient care and cutting-edge research. <br>
 
