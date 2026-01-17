@@ -4,6 +4,16 @@ permalink: /bio/
 author_profile: true
 classes: wide
 ---
+**Positions**
+-	2019 May-present.Attending physician, Department of Internal Medicine, National Taiwan University Hospital
+- 2022 Jun-2024 Dec. Attending physician. Department of Medical Education and Research, National Taiwan University Hospital Yunlin Branch
+-	2015 Jul-2019 Apr. Attending physician,  Tai-Chen Stem Cell Therapy Center, National Taiwan University and Adjunctive attending physician, National Taiwan University Hospital <br><br>
+
+-	2022 Feb-present. Assistant professor, Department of Internal Medicine, College of Medicine, National Taiwan University
+-	2017 Aug-2022 Jan. Lecturer, Department of Internal Medicine, College of Medicine, National Taiwan University<br><br>
+- 2025 May-present. Director, Taiwan Society of Blood and Marrow Transplantation
+-	2022 Aug-2025 Apr. Secretary general, Taiwan Society of Blood and Marrow Transplantation
+-	2019 May-2022 Aug. Deputy secretary general, Taiwan Society of Blood and Marrow Transplantation <br><br>
 
 **Education and training**
 ---
@@ -15,16 +25,9 @@ classes: wide
 - 2010 Jul-2013 Jun. Residency training in general internal medicine at National Taiwan University Hospital
 - 2004-2010 M.D. in College of Medicine, National Taiwan University <br><br>
 
-**Positions**
--	2019 May-present.Attending physician, Department of Internal Medicine, National Taiwan University Hospital
--	2015 Jul-2019 Apr. Attending physician,  Tai-Chen Stem Cell Therapy Center, National Taiwan University and Adjunctive attending physician, National Taiwan University Hospital <br><br>
--	2022 Feb-present. Assistant professor, Department of Internal Medicine, College of Medicine, National Taiwan University
--	2017 Aug-2022 Jan. Lecturer, Department of Internal Medicine, College of Medicine, National Taiwan University<br><br>
--	2022 Aug-present. Secretary general, Taiwan Society of Blood and Marrow Transplantation
--	2019 May-2022 Aug. Deputy secretary general, Taiwan Society of Blood and Marrow Transplantation <br><br>
-
 **Awards**
 ---
+- 2025- Award for DKSH Young Investigator Award (Annual Meeting of Taiwan Society of Hematology)
 -	2024- Award for Distinguished Scientific Paper (SCI) for Young Researcher (Annual Meeting of Taiwan Society of Hematology)
 -	2022- Award for Distinguished Scientific Paper (SCI) for Young Researcher (Annual Meeting of Taiwan Society of Hematology)
 -	2020- Award for Distinguished Scientific Paper (SCI) for Young Researcher (Annual Meeting of Taiwan Society of Hematology)
