@@ -4,7 +4,7 @@ permalink: /talks/
 author_profile: true
 classes: wide
 ---
-
+- 2026 Invited speaker, Asian Bone Marrow Failure Syndromes Symposium, Seoul, Korea. _Topic: Clinical Challenges and Guideline-Oriented Decision Making in Adult Immune Thrombocytopenia: Experience from Taiwan_
 -	2024 The International Congress of on Blood and Marrow Transplantation, Busan, Korea. _Topic: CAR-T Therapy in Taiwan: Outcomes and Adverse Events from a National Registry Analysis_
 - 2023 Invited speaker, Annual meeting of Asia Pacific Blood and Marrow Transplantation, Indonesia. _Topic: Strategies for Augmenting Graft vs Tumor Effect post transplant_
 - 2022 Invited speaker, Highlight of ASH international program, Asia-Pacific region. _Topic: Measurable/minimal residual disease in patients with acute myeloid leukemia_
