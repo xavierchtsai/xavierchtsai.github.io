@@ -18,7 +18,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xavierchtai/xavierchtsai.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-seo_description          : "Site for Xavier Cheng-Hong Tsai, Assistant Professor and Attending Physician at National Taiwan University Hospital"
+seo_description          : "Site for Xavier Cheng-Hong Tsai, Associate Professor and Attending Physician at National Taiwan University Hospital"
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
