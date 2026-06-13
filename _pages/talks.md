@@ -4,6 +4,7 @@ permalink: /talks/
 author_profile: true
 classes: wide
 ---
+- 2026 Invited speaker, Annal meeting of Asia Pacific Blood and Marrow Transplantation, Manila, Philippines. _Topic: Pulmonary chronic graft-versus-host disease_
 - 2026 Invited speaker, Asian Bone Marrow Failure Syndromes Symposium, Seoul, Korea. _Topic: Clinical Challenges and Guideline-Oriented Decision Making in Adult Immune Thrombocytopenia: Experience from Taiwan_
 -	2024 The International Congress of on Blood and Marrow Transplantation, Busan, Korea. _Topic: CAR-T Therapy in Taiwan: Outcomes and Adverse Events from a National Registry Analysis_
 - 2023 Invited speaker, Annual meeting of Asia Pacific Blood and Marrow Transplantation, Indonesia. _Topic: Strategies for Augmenting Graft vs Tumor Effect post transplant_

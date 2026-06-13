@@ -8,8 +8,8 @@ classes: wide
 -	2019 May-present. Attending physician, Department of Internal Medicine, National Taiwan University Hospital
 - 2022 Jun-2024 Dec. Attending physician. Department of Medical Education and Research, National Taiwan University Hospital Yunlin Branch
 -	2015 Jul-2019 Apr. Attending physician,  Tai-Chen Stem Cell Therapy Center, National Taiwan University and Adjunctive attending physician, National Taiwan University Hospital <br><br>
-
--	2022 Feb-present. Assistant professor, Department of Internal Medicine, College of Medicine, National Taiwan University
+-	2026 Aug-present. Associate professor, Department of Internal Medicine, College of Medicine, National Taiwan University
+-	2022 Feb-2026 Jul. Assistant professor, Department of Internal Medicine, College of Medicine, National Taiwan University
 -	2017 Aug-2022 Jan. Lecturer, Department of Internal Medicine, College of Medicine, National Taiwan University<br><br>
 - 2025 May-present. Director, Taiwan Society of Blood and Marrow Transplantation
 -	2022 Aug-2025 Apr. Secretary general, Taiwan Society of Blood and Marrow Transplantation
